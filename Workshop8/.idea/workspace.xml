@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="50e6f747-945e-4dc0-affb-4f132f22e7e6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../JavaTemplateOutdoorEquipmentStore/src/main/java/com/xd/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaTemplateOutdoorEquipmentStore/src/main/java/com/xd/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTemplateOutdoorEquipmentStore/src/main/java/com/xd/Store.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaTemplateOutdoorEquipmentStore/src/main/java/com/xd/Store.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WorkBook3/WorkingWIthComplexMenus/src/main/java/com/xd/Villain2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkBook3/WorkingWIthComplexMenus/src/main/java/com/xd/Villain2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WorkBook3/WorkingWithExceptions/src/main/java/com/xd/TenSayingsArrayPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkBook3/WorkingWithExceptions/src/main/java/com/xd/TenSayingsArrayPractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WorkBook3/WorkingWithExceptions/src/main/java/com/xd/WorkingWithExceptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkBook3/WorkingWithExceptions/src/main/java/com/xd/WorkingWithExceptions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WorkBook5/Exercise5/src/main/java/com/xd/Assets.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkBook5/Exercise5/src/main/java/com/xd/Assets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WorkBook5/Exercise5/src/main/java/com/xd/Cash.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkBook5/Exercise5/src/main/java/com/xd/Cash.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WorkBook5/Exercise5/src/main/java/com/xd/House.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkBook5/Exercise5/src/main/java/com/xd/House.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WorkBook5/Exercise5/src/main/java/com/xd/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkBook5/Exercise5/src/main/java/com/xd/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WorkBook5/WorkingWithInheritance/src/main/java/com/xd/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkBook5/WorkingWithInheritance/src/main/java/com/xd/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WorkBook5/WorkingWithInhertitance/src/main/java/com/xd/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkBook5/WorkingWithInhertitance/src/main/java/com/xd/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WorkBook5/WorkingWithInhertitance/src/main/java/com/xd/Truck.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkBook5/WorkingWithInhertitance/src/main/java/com/xd/Truck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WorkBook5/WorkingWithInhertitance/src/main/java/com/xd/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkBook5/WorkingWithInhertitance/src/main/java/com/xd/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WorkBook5/WorkingWithInstance/src/main/java/Animal/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkBook5/WorkingWithInstance/src/main/java/Animal/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WorkBook5/WorkingWithInstance/src/main/java/Animal/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkBook5/WorkingWithInstance/src/main/java/Animal/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WorkBook5/WorkingWithInstance/src/main/java/Animal/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkBook5/WorkingWithInstance/src/main/java/Animal/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WorkBook5/WorkingWithInstance/src/main/java/Vehichle/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkBook5/WorkingWithInstance/src/main/java/Vehichle/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WorkBook5/WorkingWithInstance/src/main/java/Vehichle/HoverBoard.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkBook5/WorkingWithInstance/src/main/java/Vehichle/HoverBoard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WorkBook5/WorkingWithInstance/src/main/java/Vehichle/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkBook5/WorkingWithInstance/src/main/java/Vehichle/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WorkBook5/WorkingWithInstance/src/main/java/Vehichle/Moped.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkBook5/WorkingWithInstance/src/main/java/Vehichle/Moped.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WorkBook5/WorkingWithInstance/src/main/java/Vehichle/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkBook5/WorkingWithInstance/src/main/java/Vehichle/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WorkBook5/WorkingWithInstance/src/main/java/com/xd/CasinoHotel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkBook5/WorkingWithInstance/src/main/java/com/xd/CasinoHotel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WorkBook5/WorkingWithInstance/src/main/java/com/xd/Hostel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkBook5/WorkingWithInstance/src/main/java/com/xd/Hostel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WorkBook5/WorkingWithInstance/src/main/java/com/xd/Hotel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkBook5/WorkingWithInstance/src/main/java/com/xd/Hotel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WorkBook5/WorkingWithInstance/src/main/java/com/xd/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkBook5/WorkingWithInstance/src/main/java/com/xd/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WorkBook5/WorkingWithPolymorphism/src/main/java/com/xd/CaveMan.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkBook5/WorkingWithPolymorphism/src/main/java/com/xd/CaveMan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WorkBook5/WorkingWithPolymorphism/src/main/java/com/xd/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkBook5/WorkingWithPolymorphism/src/main/java/com/xd/Human.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WorkBook5/WorkingWithPolymorphism/src/main/java/com/xd/modernPerson.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkBook5/WorkingWithPolymorphism/src/main/java/com/xd/modernPerson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Workshop7CarDealerShipDB/WorkingWithDataManager/src/main/java/com/xd/HotelDataManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Workshop7CarDealerShipDB/WorkingWithDataManager/src/main/java/com/xd/HotelDataManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Workshop7CarDealerShipDB/WorkingWithJDBC/src/main/java/com/xd/JDBC_dataSourcesExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Workshop7CarDealerShipDB/WorkingWithJDBC/src/main/java/com/xd/JDBC_dataSourcesExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xd/DataManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xd/DataManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xd/Dealership.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xd/Dealership.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xd/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xd/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xd/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xd/Vehicle.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2RIB0Krr5PRFFYj2fye2fipDcWW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/diazj/Desktop/LearnToCode/Workshop8CarDealershipMySQL",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="50e6f747-945e-4dc0-affb-4f132f22e7e6" name="Changes" comment="" />
+      <created>1686927492138</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686927492138</updated>
+    </task>
+    <servers />
+  </component>
+</project>
